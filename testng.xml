@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="PolicyBoss Car Insurance Tests">
+  <test name="Test Suite">
+    <classes>
+      <class name="testCase.TestCase002" />
+    </classes>
+  </test>
+</suite>
